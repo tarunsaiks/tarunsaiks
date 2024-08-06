@@ -1,8 +1,8 @@
 ### Hi there 👋
-- 🔭 I’m currently working on Bug Bounty, Malware Analysis challenges, AWS Soultions Architect
-- 🌱 I’m currently learning Bug Bounty, Wazuh SIEM.
-- 👯 I’m looking to collaborate on Learning together and building projects on Infosec domain
-- 📫 How to reach me: tkattasreenivasulu@albany.edu
+- 🔭 I’m currently working on Incident Response, Security reviews, OSINT and Vulnerability Assessment.
+- 🌱 I’m currently learning Azure SC-200.
+- 👯 I’m looking to collaborate on building a homelab to emulate red team techniques and improve detections.
+- 📫 How to reach me: kstarunsai@gmail.com
 <!--
 **tarunsaiks/tarunsaiks** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
